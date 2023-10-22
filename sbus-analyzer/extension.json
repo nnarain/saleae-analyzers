@@ -1,0 +1,13 @@
+{
+  "name": "SBUS Analyzer",
+  "apiVersion": "1.0.0",
+  "author": "Natesh Narain",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "SBUS Analyzer": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
